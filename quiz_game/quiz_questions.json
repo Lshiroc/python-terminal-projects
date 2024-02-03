@@ -1,0 +1,12 @@
+{
+    "questions": [
+        {
+            "question": "What does CPU dtand for?",
+            "answer": "Central Unit Processor"
+        },
+        {
+            "question": "What does GPU dtand for?",
+            "answer": "Graphics Processing Unit"
+        }
+    ]
+}
